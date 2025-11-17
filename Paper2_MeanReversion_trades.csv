@@ -1,0 +1,2 @@
+timestamp,action,asset,price,size,value,reasoning,regime
+2022-01-05,BUY,SPY,468.61418999999995,2125.4824125258156,996031.2191050308,"Price=$468.38, Fair=$469.81; Deviation=-0.30%, Z-score=-5.41; Stock is CHEAP (z=-5.41); ENTER long 99.6% - mean reversion",bear
